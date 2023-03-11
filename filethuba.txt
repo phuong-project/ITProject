@@ -1,5 +1,4 @@
-<<<<<<< HEAD
+
 file thu 3 dong thu 1
-=======
+
 noi dung file thu 3
->>>>>>> d9fd9061e7baa2aae9722425407cdab66b1e6b60
