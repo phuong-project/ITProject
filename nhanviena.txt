@@ -1,2 +1,3 @@
 tren nhanh a tao nhan vien a
 Noi dung tren anh A
+merge lan 2 tren nhanh a
