@@ -7,3 +7,5 @@ Noi dung tren anh A
 dung git gui here
 dung source tree
 
+noi dung tren nhanh main
+noi dung tren nhanh main 2
