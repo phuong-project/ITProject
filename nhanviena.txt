@@ -10,3 +10,4 @@ duoc them tu nhanh c
 
 noi dung tren nhanh main
 noi dung tren nhanh main 2
+merge lan 2
