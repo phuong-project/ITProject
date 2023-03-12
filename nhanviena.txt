@@ -6,6 +6,7 @@ Noi dung tren nhanh main
 Noi dung tren anh A
 dung git gui here
 dung source tree
+duoc them tu nhanh c
 
 noi dung tren nhanh main
 noi dung tren nhanh main 2
